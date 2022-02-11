@@ -25,7 +25,7 @@
         "drupal/core-composer-scaffold": "^9.0",
         "drupal/core-recommended": "^9.0@stable",
         "drupal/guardr_core": "^2.0",
-        "drush/drush": "^10.3",
+        "drush/drush": "^11.0",
         "mediacurrent/mis_profile": "^2.0",
         "mediacurrent/rain": "^3.20",
         "mediacurrent/rain_admin": "^2.0@beta",
@@ -38,8 +38,8 @@
     "require-dev": {
         "drupal/core-dev": "^9.0",
         "drupal/drupal-extension": "^4.1",
-        "drush-ops/behat-drush-endpoint": "^9.3.0",
-        "mediacurrent/ci-scripts": "^1.11.0",
+        "drush-ops/behat-drush-endpoint": "^9.4.1",
+        "mediacurrent/ci-scripts": "dev-feature/MCT-1316--robo-drush",
         "mediacurrent/ci-tests": "dev-master",
         "mglaman/drupal-check": "^1.0",
         "phpro/grumphp": "^1.0.0",
@@ -55,7 +55,7 @@
         "discard-changes": true,
         "sort-packages": true,
         "platform": {
-            "php": "7.3"
+            "php": "7.4"
         },
         "allow-plugins": {
             "composer/installers": true,
