@@ -39,7 +39,7 @@
         "drupal/core-dev": "^9.0",
         "drupal/drupal-extension": "^4.1",
         "drush-ops/behat-drush-endpoint": "^9.4.1",
-        "mediacurrent/ci-scripts": "dev-feature/MCT-1316--robo-drush",
+        "mediacurrent/ci-scripts": "^2.0.0",
         "mediacurrent/ci-tests": "dev-master",
         "mglaman/drupal-check": "^1.0",
         "phpro/grumphp": "^1.0.0",
